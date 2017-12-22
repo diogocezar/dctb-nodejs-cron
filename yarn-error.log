@@ -1,0 +1,36 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn init
+
+PATH: 
+  /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Windows/System32:/mnt/c/Windows:/mnt/c/Windows/System32/wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0:/mnt/c/Program Files (x86)/ATI Technologies/ATI.ACE/Core-Static:/mnt/f/Xampp/php:/mnt/c/ProgramData/ComposerSetup/bin:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/nodejs:/mnt/c/Program Files (x86)/Skype/Phone:/mnt/c/Program Files/TortoiseGit/bin:/mnt/c/Program Files/TortoiseSVN/bin:/mnt/c/Users/Diogo/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Diogo/AppData/Roaming/npm:/mnt/c/Program Files (x86)/Microsoft VS Code/bin:/snap/bin
+
+Yarn version: 
+  1.2.1
+
+Node version: 
+  8.0.0
+
+Platform: 
+  linux x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/usr/local/lib/node_modules/yarn/lib/cli.js:120971:13)
+      at emitNone (events.js:105:13)
+      at Interface.emit (events.js:207:7)
+      at Interface._ttyWrite (readline.js:768:16)
+      at ReadStream.onkeypress (readline.js:157:10)
+      at emitTwo (events.js:125:13)
+      at ReadStream.emit (events.js:213:7)
+      at emitKeys (internal/readline.js:417:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1005:36)
